@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph
+- Hello. I’m Joseph
 - Experienced Optical Engineer with a demonstrated history of working in the aerospace and defense industry. 
 - I am experienced in Siemens NX, MATLAB, Python, Management, Prototyping, Mathematica, Radiometry, Calibration, Modeling, and Design. 
 - My interests involve developing numerical algorithms and models, designing software, and implementing statistical and machine learning techniques to analyze data.
